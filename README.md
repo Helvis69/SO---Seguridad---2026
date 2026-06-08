@@ -1,2 +1,2 @@
-# Actividades-Sistemas-Operativos-2026-1
+# SO---Seguridad---2026
 Para subir evidencias y trabajos de SO.
