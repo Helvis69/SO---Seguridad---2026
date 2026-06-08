@@ -19,14 +19,17 @@ Cada estudiante deberá:
 Captura de:
 
 - Cuenta creada.
+
 <p align='center'>
 <img width="200" height="250" alt="imagen" src="https://github.com/user-attachments/assets/f924550a-4e43-4057-9287-23dc190c1eab" />
 </p>
 
 - Activación de 2FA.
 - Perfil configurado.
-  <img width="400" height="390" alt="imagen" src="https://github.com/user-attachments/assets/9e726b9f-51a3-472b-b222-a0426fc170b6" />
 
+<p align='center'>
+  <img width="400" height="390" alt="imagen" src="https://github.com/user-attachments/assets/9e726b9f-51a3-472b-b222-a0426fc170b6" />
+</p>
 
 ---
 
@@ -41,11 +44,17 @@ sudo apt update
 sudo apt install git
 ```
 
+<img width="950" height="450" alt="imagen" src="https://github.com/user-attachments/assets/824c25c4-e94c-4345-a223-89eabaed48b4" />
+
+
 ### Verificación
 
 ```bash
 git --version
 ```
+
+<img width="1065" height="220" alt="imagen" src="https://github.com/user-attachments/assets/16e5335e-e616-4926-b1e5-f4e057d426dc" />
+
 
 ## Configuración inicial
 
@@ -63,6 +72,8 @@ git config --list
 ## Evidencia
 
 Captura mostrando la configuración realizada.
+
+<img width="500" height="450" alt="imagen" src="https://github.com/user-attachments/assets/14098243-c190-4555-b83e-0d3efa522c55" />
 
 ---
 
